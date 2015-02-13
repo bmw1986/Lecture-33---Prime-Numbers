@@ -73,12 +73,14 @@
                             <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="seJ-EA-lrc" secondAttribute="bottom" constant="108" id="IGC-h1-ZEG"/>
                             <constraint firstAttribute="centerX" secondItem="QLr-W5-c2b" secondAttribute="centerX" id="IdD-UU-Ng7"/>
                             <constraint firstItem="Kuz-O1-L0f" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="31" id="RMO-yF-U8l"/>
+                            <constraint firstAttribute="centerX" secondItem="TCp-RJ-sNt" secondAttribute="centerX" id="UmG-4g-F7C"/>
                             <constraint firstAttribute="centerX" secondItem="Kuz-O1-L0f" secondAttribute="centerX" id="Zx9-BF-3dY"/>
                             <constraint firstItem="QLr-W5-c2b" firstAttribute="top" secondItem="Kuz-O1-L0f" secondAttribute="bottom" constant="44" id="ffU-Pu-o9z"/>
                             <constraint firstItem="QLr-W5-c2b" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="89" id="kbm-eM-OoS"/>
                             <constraint firstItem="h7O-kg-4bd" firstAttribute="top" secondItem="TCp-RJ-sNt" secondAttribute="bottom" constant="30" id="t61-LP-hlM"/>
                             <constraint firstAttribute="centerX" secondItem="TCp-RJ-sNt" secondAttribute="centerX" id="tc7-TN-J7z"/>
                             <constraint firstAttribute="trailingMargin" secondItem="QLr-W5-c2b" secondAttribute="trailing" constant="89" id="vSg-Gt-hHE"/>
+                            <constraint firstItem="TCp-RJ-sNt" firstAttribute="top" secondItem="QLr-W5-c2b" secondAttribute="bottom" constant="63" id="ykM-xu-4C9"/>
                         </constraints>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
