@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         var num = userInput.text.toInt()
         var end = false
         
-        for var i = 4; (i > 1 && end == false); i-- {
+        for var i = 4; (num != 0 && i > 1 && end == false); i-- {
             
             println("The value of i is now \(i)")
             
@@ -34,11 +34,11 @@ class ViewController: UIViewController {
                 end = true
             }
         }
+        
+        if (num == 0) {
+            programResult.text = "0 is not a prime number"
+        }
     }
-    
-    
-    
-    
     
     
     override func viewDidLoad() {
